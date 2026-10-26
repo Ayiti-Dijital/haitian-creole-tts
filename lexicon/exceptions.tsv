@@ -1,0 +1,3 @@
+# Words the sound rules read wrong: word<TAB>phones (space-separated, symbols from kreyol/phones.py).
+# Only our own entries – never copied from a dictionary. The user checks every line.
+oungan	ũ ɡ ã	# Wikipedia: "oun" is nasal here; in moun and kounye it is u + n

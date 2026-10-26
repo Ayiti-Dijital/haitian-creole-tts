@@ -1,0 +1,293 @@
+# Draft from SCRIPT_KREYOL_user.md – rules only, not checked yet.
+# word	phones	count	flag
+la	l a	55	
+yon	j ɔ̃	49	
+a	a	46	
+w	w	37	
+nan	n ã	33	
+li	l i	30	
+pou	p u	30	
+l	l	28	
+sa	s a	28	
+yo	j o	28	
+memwa	m e m w a	25	
+an	ã	23	
+ak	a k	22	
+cpu	k p i	22	abbr
+ki	k i	19	
+ou	u	19	
+se	s e	19	
+ti	t i	17	
+vif	v i f	17	
+pa	p a	16	
+chak	ʃ a k	15	
+en	ɛ̃	15	
+tout	t u t	15	
+fè	f ɛ	14	
+kat	k a t	14	
+twa	t w a	14	
+lan	l ã	13	
+pi	p i	13	
+epi	e p i	12	
+estokaj	e s t o k a ʒ	12	
+travay	t ɣ a v a j	12	
+òdinatè	ɔ d i n a t ɛ	12	
+menm	m ɛ̃ m	11	
+pwosesè	p w o s e s ɛ	11	
+lè	l ɛ	10	
+piti	p i t i	10	
+rapid	ɣ a p i d	10	
+de	d e	9	
+gen	ɡ ɛ̃	9	
+milya	m i l j a	9	
+oswa	o s w a	9	
+segonn	s e ɡ ɔ̃ n	9	
+sèvo	s ɛ v o	9	
+entèriptè	ɛ̃ t ɛ ɣ i p t ɛ	8	
+ka	k a	8	
+men	m ɛ̃	8	
+pase	p a s e	8	
+reel	ɣ e e l	8	
+senk	s ɛ̃ k	8	
+anrejistre	ã ɣ e ʒ i s t ɣ e	7	
+batman	b a t m ã	7	
+kouran	k u ɣ ã	7	
+plizyè	p l i z j ɛ	7	
+sis	s i s	7	
+sou	s u	7	
+tan	t ã	7	
+uit	ɥ i t	7	
+ap	a p	6	
+di	d i	6	
+dosye	d o s j e	6	
+enstriksyon	ɛ̃ s t ɣ i k s j ɔ̃	6	
+kenbe	k ɛ̃ b e	6	
+nwayo	n w a j o	6	
+reflechi	ɣ e f l e ʃ i	6	
+zewo	z e w o	6	
+anndan	ã n d ã	5	
+chèche	ʃ ɛ ʃ e	5	
+dekode	d e k o d e	5	
+done	d o n e	5	
+egzekite	e ɡ z e k i t e	5	
+ekran	e k ɣ ã	5	
+etap	e t a p	5	
+k	k	5	
+koupe	k u p e	5	
+nouvo	n u v o	5	
+pèdi	p ɛ d i	5	
+revèy	ɣ e v ɛ j	5	
+videyo	v i d e j o	5	
+vitès	v i t ɛ s	5	
+vle	v l e	5	
+angle	ã ɡ l e	4	
+ankò	ã k ɔ	4	
+ann	ã n	4	
+anpil	ã p i l	4	
+b	b	4	abbr
+c	k	4	abbr
+ekri	e k ɣ i	4	
+kesyon	k e s j ɔ̃	4	
+konprann	k ɔ̃ p ɣ ã n	4	
+konsa	k ɔ̃ s a	4	
+lòt	l ɔ t	4	
+plis	p l i s	4	
+poukisa	p u k i s a	4	
+pwochen	p w o ʃ ɛ̃	4	
+rele	ɣ e l e	4	
+rive	ɣ i v e	4	
+si	s i	4	
+swa	s w a	4	
+sèlman	s ɛ l m ã	4	
+trik	t ɣ i k	4	
+afiche	a f i ʃ e	3	
+al	a l	3	
+apre	a p ɣ e	3	
+bagay	b a ɡ a j	3	
+bout	b u t	3	
+byen	b j ɛ̃	3	
+elektwonik	e l e k t w o n i k	3	
+etenn	e t ɛ̃ n	3	
+fasil	f a s i l	3	
+fichye	f i ʃ j e	3	
+fwa	f w a	3	
+ghz	ɡ h z	3	
+inite	i n i t e	3	
+kijan	k i ʒ ã	3	
+klike	k l i k e	3	
+kounye	k u n j e	3	
+kreye	k ɣ e j e	3	
+limen	l i m ɛ̃	3	
+pwof	p w o f	3	
+ram	ɣ a m	3	abbr
+souvan	s u v ã	3	
+sèt	s ɛ t	3	
+tankou	t ã k u	3	
+te	t e	3	
+toujou	t u ʒ u	3	
+vre	v ɣ e	3	
+abòne	a b ɔ n e	2	
+access	a k k e s s	2	foreign
+anplis	ã p l i s	2	
+blag	b l a ɡ	2	
+bon	b ɔ̃	2	
+cache	k a ʃ e	2	foreign
+chemen	ʃ e m ɛ̃	2	
+dabò	d a b ɔ	2	
+dezyèm	d e z j ɛ m	2	
+disk	d i s k	2	
+drive	d ɣ i v e	2	
+egzanp	e ɡ z ã p	2	
+enfòmasyon	ɛ̃ f ɔ m a s j ɔ̃	2	
+foto	f o t o	2	
+foul	f u l	2	
+fraksyon	f ɣ a k s j ɔ̃	2	
+fò	f ɔ	2	
+gade	ɡ a d e	2	
+genyen	ɡ ɛ̃ j ɛ̃	2	
+hdd	h d d	2	abbr
+jis	ʒ i s	2	
+kach	k a ʃ	2	
+kalkil	k a l k i l	2	
+kapab	k a p a b	2	
+kisa	k i s a	2	
+kle	k l e	2	
+klik	k l i k	2	
+kòmantè	k ɔ m ã t ɛ	2	
+long	l ɔ̃ ɡ	2	
+mache	m a ʃ e	2	
+memory	m e m o ɣ j	2	
+mikwopwosesè	m i k w o p w o s e s ɛ	2	
+mitan	m i t ã	2	
+moun	m u n	2	
+newòn	n e w ɔ n	2	
+okenn	o k ɛ̃ n	2	
+olye	o l j e	2	
+oubyen	u b j ɛ̃	2	
+paj	p a ʒ	2	
+paske	p a s k e	2	
+pran	p ɣ ã	2	
+premye	p ɣ e m j e	2	
+random	ɣ ã d o m	2	
+rate	ɣ a t e	2	
+rekonèt	ɣ e k o n ɛ t	2	
+repons	ɣ e p ɔ̃ s	2	
+resevwa	ɣ e s e v w a	2	
+rete	ɣ e t e	2	
+script	s k ɣ i p t	2	abbr
+ssd	s s d	2	abbr
+sèvi	s ɛ v i	2	
+transistor	t ɣ ã s i s t o ɣ	2	
+twazyèm	t w a z j ɛ m	2	
+usb	i s b	2	abbr
+zanmi	z ã m i	2	
+èske	ɛ s k e	2	
+aksyon	a k s j ɔ̃	1	
+ale	a l e	1	
+alu	a l i	1	abbr
+ansanm	ã s ã m	1	
+ansyen	ã s j ɛ̃	1	
+antase	ã t a s e	1	
+antre	ã t ɣ e	1	
+anyen	ã j ɛ̃	1	
+aplikasyon	a p l i k a s j ɔ̃	1	
+aritmetik	a ɣ i t m e t i k	1	
+atravè	a t ɣ a v ɛ	1	
+avè	a v ɛ	1	
+bezwen	b e z w ɛ̃	1	
+bliye	b l i j e	1	
+chante	ʃ ã t e	1	
+chif	ʃ i f	1	
+cores	k o ɣ e s	1	foreign
+decode	d e k o d e	1	foreign
+dekouvri	d e k u v ɣ i	1	
+deside	d e s i d e	1	
+dis	d i s	1	
+disparèt	d i s p a ɣ ɛ t	1	
+douz	d u z	1	
+dènye	d ɛ n j e	1	
+eksplikasyon	e k s p l i k a s j ɔ̃	1	
+eksploratè	e k s p l o ɣ a t ɛ	1	
+entwo	ɛ̃ t w o	1	
+espas	e s p a s	1	
+execute	e k s e k i t e	1	foreign
+explorer	e k s p l o ɣ e ɣ	1	foreign
+fason	f a s ɔ̃	1	
+fen	f ɛ̃	1	
+fetch	f e t ʃ	1	
+figi	f i ɡ i	1	
+file	f i l e	1	
+finalman	f i n a l m ã	1	
+fini	f i n i	1	
+fèmen	f ɛ m ɛ̃	1	
+fòme	f ɔ m e	1	
+grafik	ɡ ɣ a f i k	1	
+hard	h a ɣ d	1	
+istwa	i s t w a	1	
+itilize	i t i l i z e	1	
+jan	ʒ ã	1	
+janm	ʒ ã m	1	
+je	ʒ e	1	
+kamera	k a m e ɣ a	1	
+kanpe	k ã p e	1	
+klavye	k l a v j e	1	
+konnen	k ɔ̃ n ɛ̃	1	
+konpare	k ɔ̃ p a ɣ e	1	
+konplè	k ɔ̃ p l ɛ	1	
+kont	k ɔ̃ t	1	
+kontwòl	k ɔ̃ t w ɔ l	1	
+kòmansman	k ɔ m ã s m ã	1	
+ladan	l a d ã	1	
+libere	l i b e ɣ e	1	
+lojik	l o ʒ i k	1	
+lontan	l ɔ̃ t ã	1	
+mete	m e t e	1	
+modèl	m o d ɛ l	1	
+modèn	m o d ɛ n	1	
+mèsi	m ɛ s i	1	
+nou	n u	1	
+nèf	n ɛ f	1	
+nèt	n ɛ t	1	
+onz	ɔ̃ z	1	
+opalè	o p a l ɛ	1	
+opsyon	o p s j ɔ̃	1	
+parèt	p a ɣ ɛ t	1	
+plas	p l a s	1	
+poukont	p u k ɔ̃ t	1	
+pwen	p w ɛ̃	1	
+pwogram	p w o ɡ ɣ a m	1	
+ranje	ɣ ã ʒ e	1	
+reels	ɣ e e l s	1	
+rekapitilasyon	ɣ e k a p i t i l a s j ɔ̃	1	
+reponn	ɣ e p ɔ̃ n	1	
+revize	ɣ e v i z e	1	
+san	s ã	1	
+sipoze	s i p o z e	1	
+sitiye	s i t i j e	1	
+skript	s k ɣ i p t	1	
+solid	s o l i d	1	
+sot	s o t	1	
+soti	s o t i	1	
+souri	s u ɣ i	1	
+state	s t a t e	1	
+swiv	s w i v	1	
+sèl	s ɛ l	1	
+t	t	1	
+tande	t ã d e	1	
+tann	t ã n	1	
+teknoloji	t e k n o l o ʒ i	1	
+tit	t i t	1	
+tou	t u	1	
+tounen	t u n ɛ̃	1	
+transistors	t ɣ ã s i s t o ɣ s	1	
+trete	t ɣ e t e	1	
+tèm	t ɛ m	1	
+tèminal	t ɛ m i n a l	1	
+ultra	i l t ɣ a	1	foreign
+vakans	v a k ã s	1	
+vin	v i n	1	
+vire	v i ɣ e	1	
+voye	v o j e	1	
+wonn	w ɔ̃ n	1	
+wè	w ɛ	1	
+zòrèy	z ɔ ɣ ɛ j	1	

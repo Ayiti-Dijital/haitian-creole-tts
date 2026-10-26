@@ -1,0 +1,8 @@
+[project]
+name = "haitian-creole-tts"
+version = "0.0.0"
+description = "Haitian Creole (Kreyòl) text-to-speech by Ayiti Dijital – first model: Wanga Nègès"
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.12"
+dependencies = []

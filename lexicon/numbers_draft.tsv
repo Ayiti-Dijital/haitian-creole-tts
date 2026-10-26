@@ -1,0 +1,111 @@
+# Numbers – spellings from kreyol/numbers.py, not checked yet.
+# number	words	phones
+0	zewo	z e w o
+1	en	ɛ̃
+2	de	d e
+3	twa	t w a
+4	kat	k a t
+5	senk	s ɛ̃ k
+6	sis	s i s
+7	sèt	s ɛ t
+8	uit	ɥ i t
+9	nèf	n ɛ f
+10	dis	d i s
+11	onz	ɔ̃ z
+12	douz	d u z
+13	trèz	t ɣ ɛ z
+14	katòz	k a t ɔ z
+15	kenz	k ɛ̃ z
+16	sèz	s ɛ z
+17	disèt	d i s ɛ t
+18	dizuit	d i z ɥ i t
+19	diznèf	d i z n ɛ f
+20	ven	v ɛ̃
+21	venteyen	v ɛ̃ t e j ɛ̃
+22	vennde	v ɛ̃ n d e
+23	venntwa	v ɛ̃ n t w a
+24	vennkat	v ɛ̃ n k a t
+25	vennsenk	v ɛ̃ n s ɛ̃ k
+26	vennsis	v ɛ̃ n s i s
+27	vennsèt	v ɛ̃ n s ɛ t
+28	ventuit	v ɛ̃ t ɥ i t
+29	ventnèf	v ɛ̃ t n ɛ f
+30	trant	t ɣ ã t
+31	tranteyen	t ɣ ã t e j ɛ̃
+32	trannde	t ɣ ã n d e
+33	tranntwa	t ɣ ã n t w a
+34	trannkat	t ɣ ã n k a t
+35	trannsenk	t ɣ ã n s ɛ̃ k
+36	trannsis	t ɣ ã n s i s
+37	trannsèt	t ɣ ã n s ɛ t
+38	trantuit	t ɣ ã t ɥ i t
+39	trantnèf	t ɣ ã t n ɛ f
+40	karant	k a ɣ ã t
+41	karanteyen	k a ɣ ã t e j ɛ̃
+42	karannde	k a ɣ ã n d e
+43	karanntwa	k a ɣ ã n t w a
+44	karannkat	k a ɣ ã n k a t
+45	karannsenk	k a ɣ ã n s ɛ̃ k
+46	karannsis	k a ɣ ã n s i s
+47	karannsèt	k a ɣ ã n s ɛ t
+48	karantuit	k a ɣ ã t ɥ i t
+49	karantnèf	k a ɣ ã t n ɛ f
+50	senkant	s ɛ̃ k ã t
+51	senkanteyen	s ɛ̃ k ã t e j ɛ̃
+52	senkannde	s ɛ̃ k ã n d e
+53	senkanntwa	s ɛ̃ k ã n t w a
+54	senkannkat	s ɛ̃ k ã n k a t
+55	senkannsenk	s ɛ̃ k ã n s ɛ̃ k
+56	senkannsis	s ɛ̃ k ã n s i s
+57	senkannsèt	s ɛ̃ k ã n s ɛ t
+58	senkantuit	s ɛ̃ k ã t ɥ i t
+59	senkantnèf	s ɛ̃ k ã t n ɛ f
+60	swasant	s w a s ã t
+61	swasanteyen	s w a s ã t e j ɛ̃
+62	swasannde	s w a s ã n d e
+63	swasanntwa	s w a s ã n t w a
+64	swasannkat	s w a s ã n k a t
+65	swasannsenk	s w a s ã n s ɛ̃ k
+66	swasannsis	s w a s ã n s i s
+67	swasannsèt	s w a s ã n s ɛ t
+68	swasantuit	s w a s ã t ɥ i t
+69	swasantnèf	s w a s ã t n ɛ f
+70	swasanndis	s w a s ã n d i s
+71	swasannonz	s w a s ã n ɔ̃ z
+72	swasanndouz	s w a s ã n d u z
+73	swasanntrèz	s w a s ã n t ɣ ɛ z
+74	swasannkatòz	s w a s ã n k a t ɔ z
+75	swasannkenz	s w a s ã n k ɛ̃ z
+76	swasannsèz	s w a s ã n s ɛ z
+77	swasanndisèt	s w a s ã n d i s ɛ t
+78	swasanndizuit	s w a s ã n d i z ɥ i t
+79	swasanndiznèf	s w a s ã n d i z n ɛ f
+80	katreven	k a t ɣ e v ɛ̃
+81	katrevenen	k a t ɣ e v e n ɛ̃
+82	katrevende	k a t ɣ e v ɛ̃ d e
+83	katreventwa	k a t ɣ e v ɛ̃ t w a
+84	katrevenkat	k a t ɣ e v ɛ̃ k a t
+85	katrevensenk	k a t ɣ e v ɛ̃ s ɛ̃ k
+86	katrevensis	k a t ɣ e v ɛ̃ s i s
+87	katrevensèt	k a t ɣ e v ɛ̃ s ɛ t
+88	katrevenuit	k a t ɣ e v e n ɥ i t
+89	katrevennèf	k a t ɣ e v ɛ̃ n ɛ f
+90	katrevendis	k a t ɣ e v ɛ̃ d i s
+91	katrevenonz	k a t ɣ e v e n ɔ̃ z
+92	katrevendouz	k a t ɣ e v ɛ̃ d u z
+93	katreventrèz	k a t ɣ e v ɛ̃ t ɣ ɛ z
+94	katrevenkatòz	k a t ɣ e v ɛ̃ k a t ɔ z
+95	katrevenkenz	k a t ɣ e v ɛ̃ k ɛ̃ z
+96	katrevensèz	k a t ɣ e v ɛ̃ s ɛ z
+97	katrevendisèt	k a t ɣ e v ɛ̃ d i s ɛ t
+98	katrevendizuit	k a t ɣ e v ɛ̃ d i z ɥ i t
+99	katrevendiznèf	k a t ɣ e v ɛ̃ d i z n ɛ f
+100	san	s ã
+101	san en	s ã | ɛ̃
+200	de san	d e | s ã
+999	nèf san katrevendiznèf	n ɛ f | s ã | k a t ɣ e v ɛ̃ d i z n ɛ f
+1000	mil	m i l
+1001	mil en	m i l | ɛ̃
+2026	de mil vennsis	d e | m i l | v ɛ̃ n s i s
+1000000	yon milyon	j ɔ̃ | m i l j ɔ̃
+1000000000	yon milya	j ɔ̃ | m i l j a

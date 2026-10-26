@@ -1,0 +1,10 @@
+# Recordings and training runs never go into git (private voice data, large files).
+data/
+runs/
+*.wav
+*.flac
+*.ckpt
+*.onnx
+
+__pycache__/
+.venv/
